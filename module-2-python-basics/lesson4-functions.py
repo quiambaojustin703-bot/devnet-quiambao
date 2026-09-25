@@ -31,4 +31,4 @@ print("Total price:", result)
 # A mistake I made
 # One mistake I made was forgetting to use the return statement.
 # I learned that return is needed when I want a function to send
-# a result back to the part of the program that called it.
+# a result back to the part of the program that i need to called it.
